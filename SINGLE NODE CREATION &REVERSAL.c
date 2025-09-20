@@ -6,7 +6,6 @@ struct node
 };
 struct node *newnode, *move,*temp, *head, *prev, *next, *current;
 int a, i,j,k=2;
-i=0;
 void display()
 {   move=head;
     printf("Output :\n");
